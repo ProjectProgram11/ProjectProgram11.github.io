@@ -1,0 +1,25 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+    padding: 10px;
+    background-color:   rgba(206, 0, 0, 0.877);
+}
+h1 {
+    text-align: center;
+}
+a {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 16pt;
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+p {
+    font-size: 16pt;
+}
+hr {
+    border-color: black;
+}
